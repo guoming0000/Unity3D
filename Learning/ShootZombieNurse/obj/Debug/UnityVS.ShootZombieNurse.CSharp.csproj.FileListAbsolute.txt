@@ -1,0 +1,9 @@
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\obj\Debug\UnityVS.ShootZombieNurse.CSharp.csprojResolveAssemblyReference.cache
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\obj\Debug\Assembly-CSharp.dll
+E:\Projects\GitHub\Unity3D\Learning\ShootZombieNurse\obj\Debug\Assembly-CSharp.pdb

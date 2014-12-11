@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+	<table wave="1" enemyname="ground" level="1" wait="3"/>
+	<table wave="1" enemyname="ground" level="1" wait="3"/>
+	<table wave="2" enemyname="air" level="2" wait="4"/>
+	<table wave="2" enemyname="air" level="2" wait="4"/>
+	<table wave="3" enemyname="ground" level="2" wait="3"/>
+	<table wave="3" enemyname="air" level="3" wait="3"/>
+	<table wave="4" enemyname="ground" level="3" wait="5"/>
+	<table wave="4" enemyname="ground" level="3" wait="4"/>
+	<table wave="5" enemyname="air" level="4" wait="4"/>
+	<table wave="5" enemyname="air" level="4" wait="4"/>
+	<table wave="6" enemyname="ground" level="4" wait="4"/>
+	<table wave="6" enemyname="ground" level="4" wait="5"/>
+	<table wave="7" enemyname="air" level="5" wait="4"/>
+	<table wave="7" enemyname="ground" level="5" wait="3"/>
+	<table wave="8" enemyname="air" level="5" wait="4"/>
+	<table wave="8" enemyname="ground" level="5" wait="4"/>
+	<table wave="9" enemyname="air" level="6" wait="4"/>
+	<table wave="9" enemyname="air" level="6" wait="5"/>
+	<table wave="10" enemyname="ground" level="7" wait="4"/>
+	<table wave="10" enemyname="air" level="7" wait="4"/>
+</ROOT>

@@ -1,0 +1,7 @@
+4.3.4f1:1.9.1.0
+D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
+D:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/iPhonePlayer/EditorExtensions/UnityEditor.iOS.Extensions.dll
+D:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/WP8Support/EditorExtensions/UnityEditor.WP8.Extensions.dll
+D:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/MetroSupport/EditorExtensions/UnityEditor.Metro.Extensions.dll
+D:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/BB10Player/EditorExtensions/UnityEditor.BB10.Extensions.dll
+D:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/EditorExtensions/UnityEditor.Android.Extensions.dll

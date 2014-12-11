@@ -1,0 +1,10 @@
+E:\Projects\GitHub\Unity3D\Learning\TDGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\Projects\GitHub\Unity3D\Learning\TDGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\Projects\GitHub\Unity3D\Learning\TDGame\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+E:\Projects\GitHub\Unity3D\Learning\TDGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Projects\GitHub\Unity3D\Learning\TDGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Projects\GitHub\Unity3D\Learning\TDGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Projects\GitHub\Unity3D\Learning\TDGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Projects\GitHub\Unity3D\Learning\TDGame\obj\Debug\UnityVS.TDGame.CSharp.csprojResolveAssemblyReference.cache
+E:\Projects\GitHub\Unity3D\Learning\TDGame\obj\Debug\Assembly-CSharp.dll
+E:\Projects\GitHub\Unity3D\Learning\TDGame\obj\Debug\Assembly-CSharp.pdb
